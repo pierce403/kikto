@@ -1,0 +1,15 @@
+html
+{
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+body
+{
+  background-color: black;
+  color: lightblue;
+}        
+
+a
+{
+  color: lightblue;
+}
