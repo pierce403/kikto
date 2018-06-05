@@ -162,7 +162,7 @@ class Bounce(webapp2.RequestHandler):
 <br><br>
 <center>
 <b>Thank you for using kik.to!</b><br><br>
-Taking you to <a href="'''+result.u+'''+">'''+result.u+'''</a><br><br>
+Taking you to <a href="'''+result.u+'''">'''+result.u+'''</a><br><br>
 total hits: '''+str(result.h)+'''
 </center>
 <script>
