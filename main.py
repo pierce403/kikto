@@ -65,7 +65,7 @@ total hits: '''+str(result.h))
 <div class="form-group" style="max-width: 300px;margins:0 auto;">
 <label for="url">Kik.to Url Shortner:</label>
 <input type="text" name="u" class="form-control" id="u" aria-describedby="urlHelp" placeholder="http://">
-<small id="urlHelp" class="form-text text-muted">We'll never share your url with anyone else.</small>
+<small id="urlHelp" class="form-text text-muted"><br>We'll never share your url with anyone else.</small>
 </div>
 <button type="submit" class="btn btn-primary">Submit</button>
 </form>
